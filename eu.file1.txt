@@ -1,3 +1,8 @@
 EU is learning git and github
 
 EU like short videos
+
+
+nOW i ALREADY PUBLISHED MY LOCAL REPO TO gITHUB:COM ; THE CONNECTION IS CREATED
+
+From this point on we will just push local commits to remote repo
